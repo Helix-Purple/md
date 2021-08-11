@@ -1,0 +1,11 @@
+{
+    "json.schemas": [
+    
+    ],
+    "editor.fontSize": 20 ,
+    "less.compile": {
+        　　　　"compress":  true,
+        　　　　"sourceMap": true, 
+        　　　　"out":false 
+        　　}
+}
